@@ -22,28 +22,50 @@ I received my M.S. degree in Economics from Renmin University of China, Beijing,
 My research interests include Industrial Organization and Applied Microeconomic Theory.
 
 
-# 🔥 News
+# News
 
 
-# 📝 Publications 
+# Publications 
+-[Platform Economy Antitrust in China: Progress and Prospect](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS)
+Sanxi Li, **Mingsheng Zhang**, Yu Chen
 
-[Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150)
+-[Blockchain Industry Development: Economic Characteristics and Sino-American Comparison](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS)
+Sanxi Li, **Mingsheng Zhang**, Xi Liu
 
+
+
+
+
+# Working Paper
+-[Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150)
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
+-Search Prominence with Costly Product Returns
+Sanxi Li, Jun Yu, **Mingsheng Zhang**
+
+-On Mechanism Underlying Algorithmic Collusion
+Zhang Xu, **Mingsheng Zhang**, Wei Zhao
+
+-Consumer Privacy and Data Collection of the Platform
+Sanxi Li, Xi Liu, **Mingsheng Zhang**
+
+-"Double Reduction" Policy Effect under the "Degree Contest"
+Kai Ding, **Mingsheng Zhang**, Sanxi Li
+
+-Logistics Informatization and Industrial Agglomeration
+**Mingsheng Zhang**, Xi Liu, Runyi Wang, Huaxin Huang
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Honors and Awards
+- *2024.06* Renmin University of China, Outstanding Graduate of RUC.
+- *2022.06* Renmin University of China, Outstanding Graduate of Beijing.
+- *2020.12* Renmin University of China, National Scholarship.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Educations
+- *2024.06 - now*, Renmin University of China, Ph.D. student Renmin University of China, Economics. 
+- *2022.06 - 2024.06*, Renmin University of China, M.S. Renmin University of China, Economics. 
+- *2018.09 - 2022.06*, Renmin University of China, B.S. Renmin University of China, Economics and Mathematics. 
+
+
