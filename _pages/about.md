@@ -23,13 +23,19 @@ My research interests include Industrial Organization and Applied Microeconomic 
 
 
 # News
+- 2024.07 Scheduled to attend the 35th Stony Brook Game Theory Conference and present "On Mechanisms Underlying Algorithmic Collusion."
+- 2024.06 Attended AMES conference and present “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”.
+- 2024.06 Attended SUFE microeconomic theory workshop.
+- 2024.06 Attended Tsinghua BEAT workshop and present “Search Prominence with Costly Product Returns”.
+
+
 
 
 # Publications 
--[Platform Economy Antitrust in China: Progress and Prospect](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS)
+- [Platform Economy Antitrust in China: Progress and Prospect](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS)
 Sanxi Li, **Mingsheng Zhang**, Yu Chen
 
--[Blockchain Industry Development: Economic Characteristics and Sino-American Comparison](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS)
+- [Blockchain Industry Development: Economic Characteristics and Sino-American Comparison](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS)
 Sanxi Li, **Mingsheng Zhang**, Xi Liu
 
 
@@ -37,22 +43,22 @@ Sanxi Li, **Mingsheng Zhang**, Xi Liu
 
 
 # Working Paper
--[Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150)
+- [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150)
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
--Search Prominence with Costly Product Returns
+- Search Prominence with Costly Product Returns
 Sanxi Li, Jun Yu, **Mingsheng Zhang**
 
--On Mechanism Underlying Algorithmic Collusion
+- On Mechanism Underlying Algorithmic Collusion
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
--Consumer Privacy and Data Collection of the Platform
+- Consumer Privacy and Data Collection of the Platform
 Sanxi Li, Xi Liu, **Mingsheng Zhang**
 
--"Double Reduction" Policy Effect under the "Degree Contest"
+- "Double Reduction" Policy Effect under the "Degree Contest"
 Kai Ding, **Mingsheng Zhang**, Sanxi Li
 
--Logistics Informatization and Industrial Agglomeration
+- Logistics Informatization and Industrial Agglomeration
 **Mingsheng Zhang**, Xi Liu, Runyi Wang, Huaxin Huang
 
 
