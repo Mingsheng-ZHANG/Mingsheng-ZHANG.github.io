@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
 I received my M.S. degree in Economics from Renmin University of China, Beijing, in 2024, and my B.S. degree in Economics and Mathematics from the same institution in 2022. I am currently a Ph.D. student at the School of Economics, Renmin University of China, Beijing.
 
 My research interests include Industrial Organization and Applied Microeconomic Theory.
 
-
+<span class='anchor' id='news'></span>
 # News
 - 2024.07 Scheduled to attend the 35th Stony Brook Game Theory Conference and present "On Mechanisms Underlying Algorithmic Collusion."
 - 2024.06 Attended AMES conference and present “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”.
@@ -30,7 +31,7 @@ My research interests include Industrial Organization and Applied Microeconomic 
 
 
 
-
+<span class='anchor' id='publications'></span>
 # Publications 
 - [Platform Economy Antitrust in China: Progress and Prospect](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS)
 Sanxi Li, **Mingsheng Zhang**, Yu Chen
@@ -41,7 +42,7 @@ Sanxi Li, **Mingsheng Zhang**, Xi Liu
 
 
 
-
+<span class='anchor' id='working paper'></span>
 # Working Paper
 - [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150)
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
@@ -62,13 +63,13 @@ Kai Ding, **Mingsheng Zhang**, Sanxi Li
 **Mingsheng Zhang**, Xi Liu, Runyi Wang, Huaxin Huang
 
 
-
+<span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
 - *2024.06* Renmin University of China, Outstanding Graduate of RUC.
 - *2022.06* Renmin University of China, Outstanding Graduate of Beijing.
 - *2020.12* Renmin University of China, National Scholarship.
 
-
+<span class='anchor' id='educations'></span>
 # Educations
 - *2024.06 - now*, Renmin University of China, Ph.D. student Renmin University of China, Economics. 
 - *2022.06 - 2024.06*, Renmin University of China, M.S. Renmin University of China, Economics. 
