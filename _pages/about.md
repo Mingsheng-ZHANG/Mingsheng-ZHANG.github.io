@@ -22,7 +22,7 @@ I received my M.S. degree in Economics from Renmin University of China, Beijing,
 
 My research interests include Industrial Organization and Applied Microeconomic Theory.
 
-<span class='url' id='/#-news'></span>
+<span id='/#-news'></span>
 # News
 - 2024.07 Scheduled to attend the 35th Stony Brook Game Theory Conference and present "On Mechanisms Underlying Algorithmic Collusion".
 - 2024.06 Attended AMES conference and present “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”.
