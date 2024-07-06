@@ -16,5 +16,5 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
-    <span href="/#-educations">Educations</span>
+    url: <span href="/#-educations">Educations</span>
+    
