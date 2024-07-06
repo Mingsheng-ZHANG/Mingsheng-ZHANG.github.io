@@ -24,7 +24,7 @@ My research interests include Industrial Organization and Applied Microeconomic 
 
 <span class='anchor' id='/#-news'></span>
 # News
-- 2024.07 Scheduled to attend the 35th Stony Brook Game Theory Conference and present "On Mechanisms Underlying Algorithmic Collusion."
+- 2024.07 Scheduled to attend the 35th Stony Brook Game Theory Conference and present "On Mechanisms Underlying Algorithmic Collusion".
 - 2024.06 Attended AMES conference and present “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”.
 - 2024.06 Attended SUFE microeconomic theory workshop.
 - 2024.06 Attended Tsinghua BEAT workshop and present “Search Prominence with Costly Product Returns”.
