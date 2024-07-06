@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='/#about-me'></span>
+<span class='url' id='/#about-me'></span>
 
 # About Me
 I received my M.S. degree in Economics from Renmin University of China, Beijing, in 2024, and my B.S. degree in Economics and Mathematics from the same institution in 2022. I am currently a Ph.D. student at the School of Economics, Renmin University of China, Beijing.
