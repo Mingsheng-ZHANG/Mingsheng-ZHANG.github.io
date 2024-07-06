@@ -69,7 +69,7 @@ Kai Ding, **Mingsheng Zhang**, Sanxi Li
 - *2022.06* Renmin University of China, Outstanding Graduate of Beijing.
 - *2020.12* Renmin University of China, National Scholarship.
 
-<span class='url' id='/#-educations'></span>
+<span id='/#-educations'></span>
 # Educations
 - *2024.06 - now*, Renmin University of China, Ph.D. student Renmin University of China, Economics. 
 - *2022.06 - 2024.06*, Renmin University of China, M.S. Renmin University of China, Economics. 
