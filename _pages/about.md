@@ -58,7 +58,7 @@ Sanxi Li, Jun Yu, **Mingsheng Zhang**
 - On Mechanism Underlying Algorithmic Collusion
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
-- 消费者隐私与平台数据收集
+- 网络外部性与数字平台个人数据收集
 李三希, 刘希, **张明圣**
 
 - “学历竞赛”视阈下的“双减”政策效应
