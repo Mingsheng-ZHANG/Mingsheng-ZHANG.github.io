@@ -53,6 +53,8 @@ My research interests include Industrial Organization and Applied Microeconomic 
 - [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150)
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
+- 网络外部性与数字平台个人数据收集
+李三希, 刘希, **张明圣**
 
 - 物流信息化与产业集聚
 **张明圣**, 刘希, 王润一, 黄华馨
@@ -64,9 +66,6 @@ Sanxi Li, Jun Yu, **Mingsheng Zhang**
 
 - On Mechanism Underlying Algorithmic Collusion
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
-
-- 网络外部性与数字平台个人数据收集
-李三希, 刘希, **张明圣**
 
 - “学历竞赛”视阈下的“双减”政策效应
 丁凯, **张明圣**, 李三希
