@@ -25,7 +25,7 @@ My research interests include Industrial Organization and Applied Microeconomic 
 <span class='url' id='/#news'></span>
 
 # News
-- 2024.08 Scheduled to attend GAMES and present “Search Prominence with Costly Product Returns”, Beijing.
+- 2024.08 Attended GAMES and presented “Search Prominence with Costly Product Returns”, Beijing.
 - 2024.07 Attended the 35th Stony Brook Game Theory Conference and presented "On Mechanisms Underlying Algorithmic Collusion", Stony Brook, New York.
 - 2024.06 Attended AMES conference and presented “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”, Hangzhou, Zhejiang.
 - 2024.06 Attended SUFE microeconomic theory workshop, Shanghai.
