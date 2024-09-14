@@ -56,6 +56,9 @@ Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 - 网络外部性与数字平台个人数据收集
 李三希, 刘希, **张明圣**
 
+- 学历竞赛与教育减负
+丁凯, **张明圣**, 李三希
+
 - 物流信息化与产业集聚
 **张明圣**, 刘希, 王润一, 黄华馨
 
@@ -67,8 +70,10 @@ Sanxi Li, Jun Yu, **Mingsheng Zhang**
 - On Mechanism Underlying Algorithmic Collusion
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
-- “学历竞赛”视阈下的“双减”政策效应
-丁凯, **张明圣**, 李三希
+- A Model of Charging and Exemption for Platform Data Collection
+Sanxi Li, Xi Liu, **Mingsheng Zhang**
+
+
 
 
 <span class='url' id='/#honors-and-awards'></span>
