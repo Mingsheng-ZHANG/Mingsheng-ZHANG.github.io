@@ -36,10 +36,10 @@ My research interests include Industrial Organization and Applied Microeconomic 
 <span class='url' id='/#publications'></span>
 
 # Publications 
-- [区块链产业发展：经济特性与中美路径差异](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS).《产业经济评论》,2024. \r
+- [区块链产业发展：经济特性与中美路径差异](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS).《产业经济评论》,2024. 
 李三希, **张明圣**, 刘希
 
-- [中国平台经济反垄断：进展与展望](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS).《改革》,2022. \r
+- [中国平台经济反垄断：进展与展望](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS).《改革》,2022. 
 李三希, **张明圣**, 陈煜
 
 
@@ -50,31 +50,27 @@ My research interests include Industrial Organization and Applied Microeconomic 
 <span class='url' id='/#working-paper'></span>
 
 # Working Paper
-- [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150)\r
+- [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150),
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
-- 网络外部性与数字平台个人数据收集\r
+- 网络外部性与数字平台个人数据收集,
 李三希, 刘希, **张明圣**
 
-- 学历竞赛与教育减负\r
+- 学历竞赛与教育减负,
 丁凯, **张明圣**, 李三希
 
-- 物流信息化与产业集聚
-  
+- 物流信息化与产业集聚,
 **张明圣**, 刘希, 王润一, 黄华馨
 
 
 # Work in Progress
-- Search Prominence with Costly Product Returns
-  
+- Search Prominence with Costly Product Returns,
 Sanxi Li, Jun Yu, **Mingsheng Zhang**, Draft in Preparation.
 
-- On Mechanism Underlying Algorithmic Collusion
-
+- On Mechanism Underlying Algorithmic Collusion,
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
-- A Model of Charging and Exemption for Platform Data Collection
-  
+- A Model of Charging and Exemption for Platform Data Collection,
 Sanxi Li, Xi Liu, **Mingsheng Zhang**
 
 
