@@ -53,6 +53,9 @@ My research interests include Industrial Organization and Applied Microeconomic 
 - [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150),
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
+- Search Prominence with Costly Product Returns,
+Sanxi Li, Jun Yu, **Mingsheng Zhang**
+
 - 网络外部性与数字平台个人数据收集,
 李三希, 刘希, **张明圣**
 
@@ -64,9 +67,6 @@ Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
 
 # Work in Progress
-- Search Prominence with Costly Product Returns,
-Sanxi Li, Jun Yu, **Mingsheng Zhang**, Draft in Preparation.
-
 - On Mechanism Underlying Algorithmic Collusion,
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
