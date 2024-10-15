@@ -70,7 +70,9 @@ Sanxi Li, Jun Yu, **Mingsheng Zhang**
 - A Model of Charging and Exemption for Platform Data Collection,
 Sanxi Li, Xi Liu, **Mingsheng Zhang**
 
+- Displaying Signal Design in Search Market
 
+- Search Order Directing
 
 
 <span class='url' id='/#honors-and-awards'></span>
