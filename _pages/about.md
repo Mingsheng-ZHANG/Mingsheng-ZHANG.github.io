@@ -66,7 +66,7 @@ Sanxi Li, Jun Yu, **Mingsheng Zhang**
 **张明圣**, 刘希, 王润一, 黄华馨
 
 
-# Work in Progress
+## Work in Progress
 - A Model of Charging and Exemption for Platform Data Collection,
 Sanxi Li, Xi Liu, **Mingsheng Zhang**
 
