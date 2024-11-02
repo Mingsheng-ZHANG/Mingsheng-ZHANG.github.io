@@ -86,7 +86,7 @@ Sanxi Li, Xi Liu, **Mingsheng Zhang**
 
 # Educations
 - *2024.09 - now*, Renmin University of China, Ph.D. student Renmin University of China, Economics. 
-- *2022.09 - 2024.06*, Renmin University of China, M.S. Renmin University of China, Economics. 
+- *2022.09 - 2024.06*, Renmin University of China, M.A. Renmin University of China, Economics. 
 - *2018.09 - 2022.06*, Renmin University of China, B.S. Renmin University of China, Economics and Mathematics. 
 
 
