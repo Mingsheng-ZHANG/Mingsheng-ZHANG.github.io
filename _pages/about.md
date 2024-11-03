@@ -18,7 +18,7 @@ redirect_from:
 <span class='url' id='/#about-me'></span>
 
 # About Me
-I am currently a Ph.D. student at the School of Economics, Renmin University of China, Beijing. I received my M.S. degree in Economics from Renmin University of China, Beijing, in 2024, and my B.S. degree in Economics and Mathematics from the same institution in 2022.
+I am currently a Ph.D. student at the School of Economics, Renmin University of China, Beijing. I received my M.A. degree in Economics from Renmin University of China, Beijing, in 2024, and my B.S. degree in Economics and Mathematics from the same institution in 2022.
 
 My research interests include Industrial Organization and Applied Microeconomic Theory.
 
