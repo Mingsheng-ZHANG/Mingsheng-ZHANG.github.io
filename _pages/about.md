@@ -18,7 +18,7 @@ redirect_from:
 <span class='url' id='/#about-me'></span>
 
 # About Me
-I am currently a Ph.D. student at the School of Economics, Renmin University of China, Beijing. 
+I am currently a Ph.D. candidate at the School of Economics, Renmin University of China, Beijing. 
 My research interests include Industrial Organization and Applied Microeconomic Theory.
 
 <span class='url' id='/#news'></span>
@@ -84,7 +84,7 @@ Sanxi Li, Xi Liu, **Mingsheng Zhang**
 <span class='url' id='/#educations'></span>
 
 # Educations
-- *2024.09 - now*, Renmin University of China, Ph.D. student in Economics. 
+- *2024.09 - now*, Renmin University of China, Ph.D. candidate in Economics. 
 - *2024.06*, Renmin University of China, M.A. in Economics. 
 - *2022.06*, Renmin University of China, B.S. in Economics and Mathematics. 
 
