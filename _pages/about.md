@@ -72,7 +72,7 @@ Sanxi Li, Xi Liu, **Mingsheng Zhang**
 
 - Search Order Directing
 
-- Optimal Information Disclosure in Search Market
+- Optimal History Disclosure in Search Market
 
 
 <span class='url' id='/#honors-and-awards'></span>
