@@ -12,11 +12,11 @@ main:
   - title: "Working Paper"
     url: "/#working-paper"
 
+  - title: "Presentation"
+    url: "/#presentation"
+
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
   - title: "Educations"
     url: "/#educations"
-
-  - title: "Presentation"
-    url: "/#presentation"
