@@ -69,6 +69,15 @@ Sanxi Li, Xi Liu, **Mingsheng Zhang**
 - Search History Disclosure
 
 
+<span class='url' id='/#presentation'></span>
+
+# Presentation
+- 2024.08, **GAMES Conference**, Peking University, Beijing. “Search Prominence with Costly Product Returns”
+- 2024.07, **35th Stony Brook Game Theory Conference**, Stony Brook University, New York. "Algorithmic Collusion and Price Discrimination: The Over-Usage of Data"
+- 2024.06, **AMES Conference**, Zhejiang University, Zhejiang. “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”
+- 2024.06, **BEAT Workshop**, Tsinghua University, Beijing. “Search Prominence with Costly Product Returns”
+
+
 <span class='url' id='/#honors-and-awards'></span>
 
 # Honors and Awards
@@ -82,13 +91,4 @@ Sanxi Li, Xi Liu, **Mingsheng Zhang**
 - *2024.09 - now*, Renmin University of China, Ph.D. candidate in Economics. 
 - *2024.06*, Renmin University of China, M.A. in Economics. 
 - *2022.06*, Renmin University of China, B.S. in Economics and Mathematics. 
-
-
-<span class='url' id='/#presentation'></span>
-
-# Presentation
-- 2024.08, **GAMES Conference**, Peking University, Beijing. “Search Prominence with Costly Product Returns”
-- 2024.07, **35th Stony Brook Game Theory Conference**, Stony Brook University, New York. "Algorithmic Collusion and Price Discrimination: The Over-Usage of Data"
-- 2024.06, **AMES Conference**, Zhejiang University, Zhejiang. “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”
-- 2024.06, **BEAT Workshop**, Tsinghua University, Beijing. “Search Prominence with Costly Product Returns”
 
