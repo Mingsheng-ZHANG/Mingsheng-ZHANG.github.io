@@ -17,4 +17,6 @@ main:
 
   - title: "Educations"
     url: "/#educations"
-    
+
+  - title: "Presentation"
+    url: "/#presentation"
