@@ -19,17 +19,12 @@ redirect_from:
 
 # About Me
 I am currently a Ph.D. candidate at the School of Economics, Renmin University of China, Beijing. 
-My research interests include Industrial Organization and Applied Microeconomic Theory.
+My research interests include Industrial Organization and Applied Microeconomic Theory, especially Search Theory.
 
 <span class='url' id='/#news'></span>
 
 # News
 - 2024.08 Attended GAMES and presented “Search Prominence with Costly Product Returns”, Beijing.
-- 2024.07 Attended the 35th Stony Brook Game Theory Conference and presented "Algorithmic Collusion and Price Discrimination: The Over-Usage of Data", Stony Brook, New York.
-- 2024.06 Attended AMES conference and presented “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”, Hangzhou, Zhejiang.
-- 2024.06 Attended SUFE microeconomic theory workshop, Shanghai.
-- 2024.06 Attended Tsinghua BEAT workshop and presented “Search Prominence with Costly Product Returns”, Beijing.
-
 
 
 <span class='url' id='/#publications'></span>
@@ -88,4 +83,12 @@ Sanxi Li, Xi Liu, **Mingsheng Zhang**
 - *2024.06*, Renmin University of China, M.A. in Economics. 
 - *2022.06*, Renmin University of China, B.S. in Economics and Mathematics. 
 
+
+<span class='url' id='/#Presentation'></span>
+
+# Presentation
+- 2024.08, **GAMES Conference**, Peking University, Beijing. “Search Prominence with Costly Product Returns”
+- 2024.07, **35th Stony Brook Game Theory Conference**, Stony Brook University, New York. "Algorithmic Collusion and Price Discrimination: The Over-Usage of Data"
+- 2024.06, **AMES Conference**, Zhejiang University, Zhejiang. “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”
+- 2024.06, **BEAT Workshop**, Tsinghua University, Beijing. “Search Prominence with Costly Product Returns”
 
