@@ -84,7 +84,7 @@ Sanxi Li, Xi Liu, **Mingsheng Zhang**
 - *2022.06*, Renmin University of China, B.S. in Economics and Mathematics. 
 
 
-<span class='url' id='/#Presentation'></span>
+<span class='url' id='/#presentation'></span>
 
 # Presentation
 - 2024.08, **GAMES Conference**, Peking University, Beijing. “Search Prominence with Costly Product Returns”
