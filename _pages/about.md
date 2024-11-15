@@ -68,6 +68,10 @@ Sanxi Li, Xi Liu, **Mingsheng Zhang**
 
 - Search History Disclosure
 
+- Sample Design with Information Friction
+
+- Search History: Hide or Disclose?
+
 
 <span class='url' id='/#presentation'></span>
 
