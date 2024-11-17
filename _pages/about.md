@@ -64,14 +64,15 @@ Sanxi Li, Jun Yu, **Mingsheng Zhang**
 - A Model of Charging and Exemption for Platform Data Collection,
 Sanxi Li, Xi Liu, **Mingsheng Zhang**
 
-- Search Order Directing
-
 - Search History Disclosure
 
+
+## Ideas
 - Sample Design with Information Friction
 
 - Search History: Hide or Disclose?
 
+- Search Order Directing
 
 <span class='url' id='/#presentation'></span>
 
