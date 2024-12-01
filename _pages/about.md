@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 I am currently a Ph.D. candidate at the School of Economics, Renmin University of China, Beijing. 
-My research interests include Industrial Organization (especially Platform) and Applied Microeconomic Theory (especially Search Theory).
+My research interests include Industrial Organization (especially Platform and AI) and Applied Microeconomic Theory (especially Search Theory).
 
 <span class='url' id='/#news'></span>
 
@@ -67,12 +67,6 @@ Sanxi Li, Xi Liu, **Mingsheng Zhang**
 - Search History Disclosure
 
 
-## Ideas
-- Sample Design with Information Friction
-
-- Search History: Hide or Disclose?
-
-- Search Order Directing
 
 <span class='url' id='/#presentation'></span>
 
