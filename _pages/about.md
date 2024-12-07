@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 I am currently a Ph.D. candidate at the School of Economics, Renmin University of China, Beijing. 
-My research interests include Industrial Organization (especially Platform and AI) and Applied Microeconomic Theory (especially Search Theory).
+My research interests include Industrial Organization (especially Platform and AI) and Applied Microeconomic Theory (especially Search Theory and Contract Theory).
 
 <span class='url' id='/#news'></span>
 
