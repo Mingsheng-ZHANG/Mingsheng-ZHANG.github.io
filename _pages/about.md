@@ -30,11 +30,13 @@ My research interests include Industrial Organization (especially Platform and A
 <span class='url' id='/#publications'></span>
 
 # Publications 
-- [区块链产业发展：经济特性与中美路径差异](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS).《产业经济评论》,2024. 
-李三希, **张明圣**, 刘希
+- [Blockchain Industry Development: Economic Characteristics and SinoAmerican Comparison](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS)(in Chinese), 
+Sanxi Li, **Mingsheng Zhang**, Xi Liu,
+*Review of Industrial Economics*,2024.
 
-- [中国平台经济反垄断：进展与展望](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS).《改革》,2022. 
-李三希, **张明圣**, 陈煜
+- [Review of Industrial Economics](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS)(in Chinese),
+Sanxi Li, **Mingsheng Zhang**, Yu Chen,
+*Reform*,2022.
 
 
 
