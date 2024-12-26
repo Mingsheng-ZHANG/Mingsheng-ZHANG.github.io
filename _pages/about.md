@@ -57,7 +57,7 @@ Under review at *Management Science*
 Sanxi Li, Jun Yu, **Mingsheng Zhang**,
 Revise and Resubmit at *Economic Research Journal*
 
-- The Impact of the "Dual Reduction" Policy from the Perspective of "Academic Competition": Educational Equity and Social Welfare(in Chinese),
+- The Impact of the Dual Reduction Policy from the Perspective of Academic Competition: Educational Equity and Social Welfare(in Chinese),
 Kai Ding, **Mingsheng Zhang**, Sanxi Li,
 Under review at *Peking University Education Review*
 
