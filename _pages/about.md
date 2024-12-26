@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 I am currently a Ph.D. candidate at the School of Economics, Renmin University of China, Beijing. 
-My research interests include Industrial Organization (especially Platform and AI) and Applied Microeconomic Theory (especially Search Theory and Contract Theory).
+My research interests include Industrial Organization (especially Platform and AI) and Applied Microeconomic Theory (especially Search Theory).
 
 <span class='url' id='/#news'></span>
 
@@ -48,16 +48,19 @@ My research interests include Industrial Organization (especially Platform and A
 Zhang Xu, **Mingsheng Zhang**, Wei Zhao
 
 - [Search Prominence with Costly Product Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980259),
-Sanxi Li, Jun Yu, **Mingsheng Zhang**
+Sanxi Li, Jun Yu, **Mingsheng Zhang**,
+Under review at *Management Science*
 
-- 网络外部性与数字平台个人数据收集,
-李三希, 刘希, **张明圣**
+- Network Externalities and Personal Data Collection by Digital Platforms(in Chinese),
+Sanxi Li, Jun Yu, **Mingsheng Zhang**,
+R&R at *Economic Research Journal*
 
-- 学历竞赛与教育减负,
-丁凯, **张明圣**, 李三希
+- The Impact of the ``Dual Reduction'' Policy from the Perspective of “Academic Competition”: Educational Equity and Social Welfare(in Chinese),
+Kai Ding, **Mingsheng Zhang**, Sanxi Li,
+Under review at *Peking University Education Review*
 
-- 物流信息化与产业集聚,
-**张明圣**, 刘希, 王润一, 黄华馨
+- Logistics Informatization and Industrial Agglomeration(in Chinese),
+**Mingsheng Zhang**, Xi Liu, Runyi Wang, Huaxin Huang
 
 
 ## Work in Progress
