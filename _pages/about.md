@@ -34,7 +34,7 @@ My research interests include Industrial Organization (especially Platform and A
 Sanxi Li, **Mingsheng Zhang**, Xi Liu,
 *Review of Industrial Economics*,2024.
 
-- [Review of Industrial Economics](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS) (in Chinese),
+- [Platform Economy Antitrust in China: Progress and Prospect](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS) (in Chinese),
 Sanxi Li, **Mingsheng Zhang**, Yu Chen,
 *Reform*,2022.
 
