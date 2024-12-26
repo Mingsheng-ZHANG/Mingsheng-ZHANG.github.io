@@ -67,7 +67,8 @@ Under review at *Peking University Education Review*
 
 ## Work in Progress
 - Competitive Data Collection and Efficient Regulation,
-Sanxi Li, Xi Liu, **Mingsheng Zhang**
+Sanxi Li, Xi Liu, **Mingsheng Zhang**,
+Draft in Preparation
 
 - Search History Disclosure
 
