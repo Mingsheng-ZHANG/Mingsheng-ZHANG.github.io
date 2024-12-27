@@ -30,13 +30,11 @@ My research interests include Industrial Organization (especially Platform and A
 <span class='url' id='/#publications'></span>
 
 # Publications 
-- [Blockchain Industry Development: Economic Characteristics and Sino-American Comparison](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS), 
-Sanxi Li, **Mingsheng Zhang**, Xi Liu,
-*Review of Industrial Economics*,2024 (in Chinese)
+- [Blockchain Industry Development: Economic Characteristics and Sino-American Comparison](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS),
+*Review of Industrial Economics*,2024 (with Sanxi Li and Xi Liu; in Chinese)
 
 - [Platform Economy Antitrust in China: Progress and Prospect](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS),
-Sanxi Li, **Mingsheng Zhang**, Yu Chen,
-*Reform*,2022 (in Chinese)
+*Reform*,2022 (with Sanxi Li and Yu Chen; in Chinese)
 
 
 
@@ -47,28 +45,24 @@ Sanxi Li, **Mingsheng Zhang**, Yu Chen,
 
 # Working Paper
 - [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150),
-Zhang Xu, **Mingsheng Zhang**, Wei Zhao
+(with Zhang Xu and Wei Zhao)
 
 - [Search Prominence with Costly Product Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980259),
-Sanxi Li, Jun Yu, **Mingsheng Zhang**,
-Under review at *Management Science*
+Under review at *Management Science* (with Sanxi Li and Jun Yu)
 
 - Network Externalities and Personal Data Collection by Digital Platforms,
-Sanxi Li, Xi Liu, **Mingsheng Zhang**,
-Revise and Resubmit at *Economic Research Journal*. (in Chinese)
+Revise and Resubmit at *Economic Research Journal* (with Sanxi Li and Xi Liu; in Chinese)
 
 - The Impact of the Dual Reduction Policy from the Perspective of Academic Competition: Educational Equity and Social Welfare,
-Kai Ding, **Mingsheng Zhang**, Sanxi Li,
-Under review at *Peking University Education Review* (in Chinese)
+Under review at *Peking University Education Review* (with Kai Ding and Sanxi Li; in Chinese)
 
 - Logistics Informatization and Industrial Agglomeration,
-**Mingsheng Zhang**, Xi Liu, Runyi Wang, Huaxin Huang (in Chinese)
+(with Xi Liu, Runyi Wang and Huaxin Huang; in Chinese)
 
 
 ## Work in Progress
 - Competitive Data Collection and Efficient Regulation,
-Sanxi Li, Xi Liu, **Mingsheng Zhang**,
-Draft in Preparation
+Draft in Preparation (with Sanxi Li and Xi Liu)
 
 - Search History Disclosure
 
