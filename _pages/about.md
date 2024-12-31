@@ -66,6 +66,10 @@ Draft in Preparation (with Sanxi Li and Xi Liu)
 
 - Search History Disclosure
 
+- Training Data Driven Algorithmic Collusion
+
+- Recommendation System in Search Market (with Jiaqi Li)
+
 
 
 <span class='url' id='/#presentation'></span>
