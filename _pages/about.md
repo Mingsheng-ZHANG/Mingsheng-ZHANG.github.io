@@ -70,6 +70,8 @@ Draft in Preparation (with Sanxi Li and Xi Liu)
 
 - Recommendation System in Search Market (with Jiaqi Li)
 
+- Algorithm Applications in Industrial Organization: An Agenda
+
 
 
 <span class='url' id='/#presentation'></span>
