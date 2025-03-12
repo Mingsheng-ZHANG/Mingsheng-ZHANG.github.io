@@ -61,19 +61,6 @@ Under review at *Peking University Education Review* (with Kai Ding and Sanxi Li
 (with Xi Liu, Runyi Wang and Huaxin Huang; in Chinese)
 
 
-## Work in Progress
-- Competitive Data Collection and Efficient Regulation,
-Draft in Preparation (with Sanxi Li and Xi Liu)
-
-- Search History Disclosure
-
-- Training Data Driven Algorithmic Collusion
-
-- Recommendation System in Search Market (with Jiaqi Li)
-
-- Algorithm Applications in Industrial Organization: An Agenda
-
-
 
 <span class='url' id='/#presentation'></span>
 
