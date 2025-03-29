@@ -51,6 +51,8 @@ Recently, I’ve been focusing my research on platform design, particularly in a
 - [Search Prominence with Costly Product Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980259),
 (with Sanxi Li and Jun Yu)
 
+- Competitive Data Collection and Efficient Regulation, (with Sanxi Li and Xi Liu)
+
 - Network Externalities and Personal Data Collection by Digital Platforms,
 Revise and Resubmit at *Economic Research Journal* (with Sanxi Li and Xi Liu; in Chinese)
 
