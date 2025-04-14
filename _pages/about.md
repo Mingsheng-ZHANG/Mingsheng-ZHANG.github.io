@@ -49,7 +49,7 @@ Recently, I’ve been focusing my research on platform design, particularly in a
 (with Zhang Xu and Wei Zhao)
 
 - [Search Prominence with Costly Product Returns](https://arxiv.org/pdf/2410.06791),
-Under review at *The Economic Journal* (with Sanxi Li and Jun Yu)
+(with Sanxi Li and Jun Yu)
 
 - Competitive Data Collection and Efficient Regulation, (with Sanxi Li and Xi Liu)
 
