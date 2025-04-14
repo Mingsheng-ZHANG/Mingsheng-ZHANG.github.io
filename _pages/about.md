@@ -48,7 +48,7 @@ Recently, I’ve been focusing my research on platform design, particularly in a
 - [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150),
 (with Zhang Xu and Wei Zhao)
 
-- [Search Prominence with Costly Product Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980259),
+- [Search Prominence with Costly Product Returns](https://arxiv.org/pdf/2410.06791),
 (with Sanxi Li and Jun Yu)
 
 - Competitive Data Collection and Efficient Regulation, (with Sanxi Li and Xi Liu)
