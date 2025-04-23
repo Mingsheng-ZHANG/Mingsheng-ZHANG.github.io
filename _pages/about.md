@@ -56,8 +56,9 @@ Under review at *Journal of Industrial Economics* (with Sanxi Li and Jun Yu)
 - Network Externalities and Personal Data Collection by Digital Platforms,
 Revise and Resubmit at *Economic Research Journal* (with Sanxi Li and Xi Liu; in Chinese)
 
-- The Impact of the Dual Reduction Policy from the Perspective of Academic Competition: Educational Equity and Social Welfare,
-Under review at *Peking University Education Review* (with Kai Ding and Sanxi Li; in Chinese)
+- Optimal Search History Disclosure, (work in progress)
+
+- The Impact of the Dual Reduction Policy from the Perspective of Academic Competition: Educational Equity and Social Welfare, (with Kai Ding and Sanxi Li; in Chinese)
 
 - Logistics Informatization and Industrial Agglomeration,
 (with Xi Liu, Runyi Wang and Huaxin Huang; in Chinese)
