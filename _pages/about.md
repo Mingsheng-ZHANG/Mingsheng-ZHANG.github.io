@@ -53,10 +53,10 @@ Under review at *Journal of Industrial Economics* (with Sanxi Li and Jun Yu)
 
 - Competitive Data Collection and Efficient Regulation, (with Sanxi Li and Xi Liu)
 
+- Optimal Search History Disclosure, (work in progress)
+
 - Network Externalities and Personal Data Collection by Digital Platforms,
 Revise and Resubmit at *Economic Research Journal* (with Sanxi Li and Xi Liu; in Chinese)
-
-- Optimal Search History Disclosure, (work in progress)
 
 - The Impact of the Dual Reduction Policy from the Perspective of Academic Competition: Educational Equity and Social Welfare, (with Kai Ding and Sanxi Li; in Chinese)
 
