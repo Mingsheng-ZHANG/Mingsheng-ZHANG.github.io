@@ -20,22 +20,17 @@ redirect_from:
 # About Me
 I am currently a Ph.D. candidate at the School of Economics, Renmin University of China, Beijing. 
 My research interests include Industrial Organization (especially Platform and AI) and Applied Microeconomic Theory (especially Search Theory).
-Recently, I’ve been focusing my research on platform design, particularly in areas such as recommendation systems, pricing algorithms, data services, information disclosure, and more.
 
 <span class='url' id='/#news'></span>
 
 # News
-- 2024.08 Attended GAMES and presented “Search Prominence with Costly Product Returns”, Beijing.
+- 2025.06 Attended Ninth PKU-NUS Annual International Conference on Quantitative Finance and Economics and presented "Algorithmic Collusion and Price Discrimination", Beijing.
 
 
 <span class='url' id='/#publications'></span>
 
 # Publications 
-- [Blockchain Industry Development: Economic Characteristics and Sino-American Comparison](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4b3MajwIE84x27xzDSzVBlFhX_eMuH0KN1-NaBPb7h6BKnHNUZ8xmlMC-Edc0197e1ApTJa54tL6dVbTLeh7o_tP9IZRB4JqYO-hYZ_56wlzyxN-nrssLE7atQQA0E7hDCUBcwHV2N32Q==&uniplatform=NZKPT&language=CHS),
-*Review of Industrial Economics*,2024 (with Sanxi Li and Xi Liu; in Chinese)
 
-- [Platform Economy Antitrust in China: Progress and Prospect](https://kns.cnki.net/kcms2/article/abstract?v=WOgJpqC0z4aot3QypI4WIRIXix2r8Jso8FByUp8CjyQfZ8ZOajSKipEDJY5q8eKZKzfc207Z3Qd5RpsgHGT8nYRSFD4a9eOPR88voI3j6yxVH_Kg0p3ozONnoiGMQGMvOj4PL0fNw96qZfDUZ21ZVQ==&uniplatform=NZKPT&language=CHS),
-*Reform*,2022 (with Sanxi Li and Yu Chen; in Chinese)
 
 
 
@@ -55,22 +50,16 @@ Under review at *Journal of Industrial Economics* (with Sanxi Li and Jun Yu)
 
 - Optimal Search History Disclosure, (work in progress)
 
-- Network Externalities and Personal Data Collection by Digital Platforms,
-Revise and Resubmit at *Economic Research Journal* (with Sanxi Li and Xi Liu; in Chinese)
-
-- The Impact of the Dual Reduction Policy from the Perspective of Academic Competition: Educational Equity and Social Welfare, (with Kai Ding and Sanxi Li; in Chinese)
-
-- Logistics Informatization and Industrial Agglomeration,
-(with Xi Liu, Runyi Wang and Huaxin Huang; in Chinese)
 
 
 
 <span class='url' id='/#presentation'></span>
 
 # Presentation
+- 2025.05, **Ninth PKU-NUS Annual International Conference on Quantitative Finance and Economics**, Peking University, Beijing. "Algorithmic Collusion and Price Discrimination"
 - 2024.08, **GAMES Conference**, Peking University, Beijing. “Search Prominence with Costly Product Returns”
-- 2024.07, **35th Stony Brook Game Theory Conference**, Stony Brook University, New York. "Algorithmic Collusion and Price Discrimination: The Over-Usage of Data"
-- 2024.06, **AMES Conference**, Zhejiang University, Zhejiang. “Algorithmic Collusion and Price Discrimination: The Over-Usage of Data”
+- 2024.07, **35th Stony Brook Game Theory Conference**, Stony Brook University, New York. "Algorithmic Collusion and Price Discrimination"
+- 2024.06, **AMES Conference**, Zhejiang University, Zhejiang. “Algorithmic Collusion and Price Discrimination”
 - 2024.06, **BEAT Workshop**, Tsinghua University, Beijing. “Search Prominence with Costly Product Returns”
 
 
