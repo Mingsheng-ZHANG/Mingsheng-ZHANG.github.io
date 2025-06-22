@@ -50,7 +50,7 @@ Under review at *Journal of Industrial Economics* (with Sanxi Li and Jun Yu)
 
 - Search History Disclosure, work in progress
 
-- Feasible Recommendation, work in progress（with Jingmin Huang)
+- Feasible Recommendation, work in progress (with Jingmin Huang)
 
 
 
