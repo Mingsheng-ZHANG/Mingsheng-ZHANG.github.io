@@ -48,9 +48,9 @@ Under review at *Journal of Industrial Economics* (with Sanxi Li and Jun Yu)
 
 - Competitive Data Collection and Efficient Regulation, (with Sanxi Li and Xi Liu)
 
-- Search History Disclosure, (work in progress)
+- Search History Disclosure, work in progress
 
-- Feasible Recommendation, (work in progress)
+- Feasible Recommendation, work in progress （with Jingmin Huang)
 
 
 
