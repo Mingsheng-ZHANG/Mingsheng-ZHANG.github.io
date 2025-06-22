@@ -50,7 +50,7 @@ Under review at *Journal of Industrial Economics* (with Sanxi Li and Jun Yu)
 
 - Search History Disclosure, (work in progress)
 
-- The Limit of Recommendation, (work in progress)
+- Feasible Recommendation, (work in progress)
 
 
 
