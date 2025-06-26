@@ -44,9 +44,7 @@ My research interests include Industrial Organization (especially Platform and A
 (with Zhang Xu and Wei Zhao)
 
 - [Search Prominence with Costly Product Returns](https://arxiv.org/pdf/2410.06791),
-Under review at *Journal of Industrial Economics* (with Sanxi Li and Jun Yu)
-
-- Competitive Data Collection and Efficient Regulation, (with Sanxi Li and Xi Liu)
+(with Sanxi Li and Jun Yu)
 
 - Search History Disclosure, work in progress
 
