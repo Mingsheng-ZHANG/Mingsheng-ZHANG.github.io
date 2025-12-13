@@ -24,7 +24,7 @@ My research interests include Industrial Organization (especially Platform and A
 <span class='url' id='/#news'></span>
 
 # News
-- 2025.06 Attended Ninth PKU-NUS Annual International Conference on Quantitative Finance and Economics and presented "Algorithmic Collusion and Price Discrimination", Beijing.
+- 2025.12 I'm going to attend the 2025 Asia-Pacific Industrial Organization Conference and present "Algorithmic Market Allocation", Australia.
 
 
 <span class='url' id='/#publications'></span>
