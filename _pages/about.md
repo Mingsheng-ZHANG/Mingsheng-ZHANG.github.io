@@ -40,7 +40,7 @@ My research interests include Industrial Organization (especially Platform and A
 <span class='url' id='/#working-paper'></span>
 
 # Working Paper
-- [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://arxiv.org/pdf/2403.06150),
+- [Algorithmic Collusion and Price Discrimination: The Over-Usage of Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741393),
 (with Zhang Xu and Wei Zhao)
 
 - [Search Prominence with Costly Product Returns](https://arxiv.org/pdf/2410.06791),
