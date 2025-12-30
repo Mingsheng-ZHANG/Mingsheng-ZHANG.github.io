@@ -41,7 +41,7 @@ My research interests include Industrial Organization (especially Platform and A
 
 # Working Paper
 - [Artificial Intelligence, Data and Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741393),
-(with Zhang Xu and Wei Zhao, previously circulated as ``Algorithmic Collusion and Price Discrimination: The Over-Usage of Data'')
+(with Zhang Xu and Wei Zhao, previously circulated as "Algorithmic Collusion and Price Discrimination: The Over-Usage of Data")
 
 - [Search Prominence with Costly Product Returns](https://arxiv.org/pdf/2410.06791),
 (with Sanxi Li and Jun Yu, Revise and Resubmit at the International Journal of Industrial Organization)
