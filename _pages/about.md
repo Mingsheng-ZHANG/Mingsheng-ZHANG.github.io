@@ -30,8 +30,8 @@ My research interests include Industrial Organization (especially Platform and A
 <span class='url' id='/#publications'></span>
 
 # Publications 
-
-
+- [Data Network Externality and Data Collection by Monopoly Platforms](https://erj.ajcass.com/#/issue?id=121757&year=2025&issue=10&title=%E6%9C%80%E6%96%B0%E7%9B%AE%E5%BD%95),
+(with Sanxi Li and Xi Liu, *Economic Research Journal*, in Chinese)
 
 
 
@@ -44,7 +44,7 @@ My research interests include Industrial Organization (especially Platform and A
 (with Zhang Xu and Wei Zhao, previously circulated as "Algorithmic Collusion and Price Discrimination: The Over-Usage of Data")
 
 - [Search Prominence with Costly Product Returns](https://arxiv.org/pdf/2410.06791),
-(with Sanxi Li and Jun Yu, Revise and Resubmit at the International Journal of Industrial Organization)
+(with Sanxi Li and Jun Yu, Revise and Resubmit at the *International Journal of Industrial Organization*)
 
 - Platform Recommendation and Continuum Search, work in progress
 
