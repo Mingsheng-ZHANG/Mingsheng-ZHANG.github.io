@@ -46,7 +46,7 @@ My research interests include Industrial Organization (especially Platform and A
 - [Search Prominence with Costly Product Returns](https://arxiv.org/pdf/2410.06791),
 (with Sanxi Li and Jun Yu, Revise and Resubmit at the *International Journal of Industrial Organization*)
 
-- Platform Recommendation and Consumer Search in Large-Assortment Markets, work in progress
+- Platform Recommendation and Consumer Search in Large-Assortment Markets, work in progress (with Sanxi Li and Jun Yu)
 
 - Search History based Price Discrimination, work in progress
 
