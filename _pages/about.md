@@ -24,7 +24,7 @@ My research interests include Industrial Organization (especially Platform and A
 <span class='url' id='/#news'></span>
 
 # News
-- 2025.12, I attended the 2025 Asia-Pacific Industrial Organization Conference and presented "Algorithmic Market Allocation", Brisbane.
+- 2025.12, I attended the 2025 Asia-Pacific Industrial Organization Conference and presented "Artificial Intelligence, Data and Competition", Brisbane.
 
 
 <span class='url' id='/#publications'></span>
@@ -58,12 +58,12 @@ My research interests include Industrial Organization (especially Platform and A
 <span class='url' id='/#presentation'></span>
 
 # Presentation
-- 2025.12, **2025 Asia-Pacific Industrial Organization Conference**, The University of Queensland, Brisbane. "Algorithmic Market Allocation"
-- 2025.05, **Ninth PKU-NUS Annual International Conference on Quantitative Finance and Economics**, Peking University, Beijing. "Algorithmic Collusion and Price Discrimination"
-- 2024.08, **GAMES Conference**, Peking University, Beijing. “Search Prominence with Costly Product Returns”
-- 2024.07, **35th Stony Brook Game Theory Conference**, Stony Brook University, New York. "Algorithmic Collusion and Price Discrimination"
-- 2024.06, **AMES Conference**, Zhejiang University, Zhejiang. “Algorithmic Collusion and Price Discrimination”
-- 2024.06, **BEAT Workshop**, Tsinghua University, Beijing. “Search Prominence with Costly Product Returns”
+- 2025.12, **2025 Asia-Pacific Industrial Organization Conference**, The University of Queensland, Brisbane. "Artificial Intelligence, Data and Competition"
+- 2025.05, **Ninth PKU-NUS Annual International Conference on Quantitative Finance and Economics**, Peking University, Beijing. "Artificial Intelligence, Data and Competition"
+- 2024.08, **GAMES Conference**, Peking University, Beijing. “Product Returns and the Value of Search Prominence”
+- 2024.07, **35th Stony Brook Game Theory Conference**, Stony Brook University, New York. "Artificial Intelligence, Data and Competition"
+- 2024.06, **AMES Conference**, Zhejiang University, Zhejiang. “Artificial Intelligence, Data and Competition”
+- 2024.06, **BEAT Workshop**, Tsinghua University, Beijing. “Product Returns and the Value of Search Prominence”
 
 
 <span class='url' id='/#honors-and-awards'></span>
