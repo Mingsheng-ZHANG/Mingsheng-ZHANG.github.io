@@ -44,7 +44,7 @@ My research interests include Industrial Organization (especially Platform and A
 (with Zhang Xu and Wei Zhao, previously circulated as "Algorithmic Collusion and Price Discrimination: The Over-Usage of Data")
 
 - [Product Returns and the Value of Search Prominence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980259),
-(with Sanxi Li and Jun Yu, Revise and Resubmit at the *International Journal of Industrial Organization*, previously circulated as "Search Prominence with Costly Product Returns")
+(with Sanxi Li and Jun Yu, Revised and Resubmitted at the *International Journal of Industrial Organization*, previously circulated as "Search Prominence with Costly Product Returns")
 
 - Platform Recommendation and Consumer Search in Large-Assortment Markets, work in progress (with Sanxi Li and Jun Yu)
 
