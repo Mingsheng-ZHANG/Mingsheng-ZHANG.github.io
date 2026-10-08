@@ -46,6 +46,8 @@ My research interests include Industrial Organization (especially Platform and A
 - [Product Returns and the Value of Search Prominence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980259),
 (with Sanxi Li and Jun Yu, Revised and Resubmitted at the *International Journal of Industrial Organization*, previously circulated as "Search Prominence with Costly Product Returns")
 
+- AI, Capability Convergence, and Wage Losses, (with Zonglai Kou, Sanxi Li and Jiarui Xu)
+
 - Platform Recommendation and Consumer Search in Large-Assortment Markets, (with Sanxi Li and Jun Yu)
 
 - Buyer-Optimal Recommendation System Design, (with Sanxi Li)
