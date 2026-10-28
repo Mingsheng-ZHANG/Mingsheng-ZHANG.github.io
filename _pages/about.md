@@ -48,9 +48,9 @@ My research interests include Industrial Organization (especially Platform and A
 
 - AI, Capability Convergence, and Wage Losses, (with Zonglai Kou, Sanxi Li and Jiarui Xu)
 
-- Platform Recommendation and Consumer Search in Large-Assortment Markets, (with Sanxi Li and Jun Yu)
+- Platform Recommendation and Competition in Search Markets, (with Sanxi Li and Jun Yu)
 
-- Buyer-Optimal Recommendation System Design, (with Sanxi Li)
+- The Limits of Recommender Systems, (with Sanxi Li)
 
 - Transparency in Platform Recommendation System, work in progress
 
