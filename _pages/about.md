@@ -52,7 +52,7 @@ My research interests include Industrial Organization (especially Platform and A
 
 - The Limits of Recommender Systems, (with Sanxi Li)
 
-- Transparency in Platform Recommendation System, work in progress
+- Two-Sided Transparency in Platform Recommendation, work in progress
 
 - Search History based Price Discrimination, work in progress
 
