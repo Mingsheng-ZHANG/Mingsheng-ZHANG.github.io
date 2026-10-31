@@ -65,7 +65,6 @@ My research interests include Industrial Organization (especially Platform and A
 
 # Presentation
 - 2025.12, **2025 Asia-Pacific Industrial Organization Conference**, The University of Queensland, Brisbane. "Artificial Intelligence, Data and Competition"
-- 
 - 2025.05, **Ninth PKU-NUS Annual International Conference on Quantitative Finance and Economics**, Peking University, Beijing. "Artificial Intelligence, Data and Competition"
 - 2024.08, **GAMES Conference**, Peking University, Beijing. “Product Returns and the Value of Search Prominence”
 - 2024.07, **35th Stony Brook Game Theory Conference**, Stony Brook University, New York. "Artificial Intelligence, Data and Competition"
