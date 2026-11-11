@@ -43,7 +43,7 @@ My research interests include Industrial Organization (especially Platform and A
 (with Sanxi Li and Taiming Wang, *Journal of Beijing Jiaotong University (Social Sciences Edition)*, in Chinese)
 
 - [The Impact of the "Double Reduction" Policy from the Perspective of "Academic Competition": Educational Equity and Social Welfare](https://kns.cnki.net/kcms2/article/abstract?v=u3UHakgXwP9Hl7k9djMBfZbPQNrw-zF0lnH8ucRt-ZnMMOq-3FrXI8_oV3AgQHBU1Lwhi2O-8wZb-IzsL7M7U4c-lISSG-fsZkwwHuu8-kVVXaqzdl6KVsKcZT1pf7dDPvvJrtkMJs_0dUxGzqBkWw==&uniplatform=NZKPT&language=CHS)
-(with Sanxi Li and Kai Ding, *Renmin University of China Education Journal*, in Chinese)
+(with Kai Ding and Sanxi Li, *Renmin University of China Education Journal*, in Chinese)
 
 
 
