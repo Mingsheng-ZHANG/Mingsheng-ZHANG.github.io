@@ -39,7 +39,7 @@ My research interests include Industrial Organization (especially Platform and A
 - [Blockchain Industry Development: Economic Characteristics and Sino-American Comparison](https://kns.cnki.net/kcms2/article/abstract?v=u3UHakgXwP9jEMztCrcyH-9KpEYWcraymvTtG1iC5oMaphU5LQrsk2rG94flWL9PO5JqylZTXBhlVh1Y2Jnbj8vq2LfJvtjsFEAKDmrFIk4lNPE5EI4HY8x4GeXnv20sP50WNN2TS9Cb2_EpB1fQtQ==&uniplatform=NZKPT&language=CHS)
 (with Sanxi Li and Xi Liu, *Review of Industrial Economics*, in Chinese)
 
-- [Data Factor Rights Confirmation and Regulation：Innovative Models and the Influence Mechanisms](https://xbsk.bjtu.edu.cn/CN/Y2025/V24/I3/36)
+- [Data Factor Rights Confirmation and Regulation: Innovative Models and the Influence Mechanisms](https://xbsk.bjtu.edu.cn/CN/Y2025/V24/I3/36)
 (with Sanxi Li and Taiming Wang, *Journal of Beijing Jiaotong University (Social Sciences Edition)*, in Chinese)
 
 - [The Impact of the "Double Reduction" Policy from the Perspective of "Academic Competition": Educational Equity and Social Welfare](https://kns.cnki.net/kcms2/article/abstract?v=u3UHakgXwP9Hl7k9djMBfZbPQNrw-zF0lnH8ucRt-ZnMMOq-3FrXI8_oV3AgQHBU1Lwhi2O-8wZb-IzsL7M7U4c-lISSG-fsZkwwHuu8-kVVXaqzdl6KVsKcZT1pf7dDPvvJrtkMJs_0dUxGzqBkWw==&uniplatform=NZKPT&language=CHS)
