@@ -61,7 +61,7 @@ My research interests include Industrial Organization (especially Platform and A
 
 - Platform Recommendation and Competition in Search Markets, (with Sanxi Li and Jun Yu)
 
-- The Limits of Recommender Systems, work in progress (with Sanxi Li)
+- The Limits of Recommender Systems, work in progress
 
 - Two-Sided Transparency in Platform Recommendation, work in progress
 
