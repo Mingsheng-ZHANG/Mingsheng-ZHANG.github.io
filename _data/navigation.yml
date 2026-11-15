@@ -12,9 +12,6 @@ main:
   - title: "Working Paper"
     url: "/#working-paper"
 
-  - title: "Others"
-    url: "/#others"
-
   - title: "Presentation"
     url: "/#presentation"
 
@@ -24,3 +21,5 @@ main:
   - title: "Educations"
     url: "/#educations"
 
+  - title: "Other Publications"
+    url: "/#others"
