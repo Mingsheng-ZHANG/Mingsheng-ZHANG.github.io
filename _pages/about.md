@@ -85,7 +85,7 @@ My research interests include Industrial Organization (especially Platform and A
 - *2024.06*, Renmin University of China, M.A. in Economics. 
 - *2022.06*, Renmin University of China, B.S. in Economics and Mathematics.
 
-- <span class='url' id='/#others'></span>
+<span class='url' id='/#others'></span>
 # Other Publications
 - [Blockchain Industry Development: Economic Characteristics and Sino-American Comparison](https://kns.cnki.net/kcms2/article/abstract?v=u3UHakgXwP9jEMztCrcyH-9KpEYWcraymvTtG1iC5oMaphU5LQrsk2rG94flWL9PO5JqylZTXBhlVh1Y2Jnbj8vq2LfJvtjsFEAKDmrFIk4lNPE5EI4HY8x4GeXnv20sP50WNN2TS9Cb2_EpB1fQtQ==&uniplatform=NZKPT&language=CHS)
 (with Sanxi Li and Xi Liu, *Review of Industrial Economics*, in Chinese)
