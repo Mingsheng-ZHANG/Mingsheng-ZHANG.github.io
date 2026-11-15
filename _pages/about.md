@@ -88,6 +88,7 @@ My research interests include Industrial Organization (especially Platform and A
 <span class='url' id='/#honors-and-awards'></span>
 
 # Honors and Awards
+- *2026.11* Innovative Paper Award, China Information Economics Society.
 - *2024.06* Renmin University of China, Outstanding Graduate of RUC.
 - *2022.06* Renmin University of China, Outstanding Graduate of Beijing.
 - *2020.12* Renmin University of China, National Scholarship.
