@@ -12,6 +12,9 @@ main:
   - title: "Working Paper"
     url: "/#working-paper"
 
+  - title: "Others"
+    url: "/#others"
+
   - title: "Presentation"
     url: "/#presentation"
 
