@@ -29,7 +29,7 @@ My research interests include Industrial Organization (especially Platform and A
 
 <span class='url' id='/#publications'></span>
 
-# Publications 
+# Selected Publications 
 - [Data Network Externality and Data Collection by Monopoly Platforms](https://erj.ajcass.com/#/issue?id=121757&year=2025&issue=10&title=%E6%9C%80%E6%96%B0%E7%9B%AE%E5%BD%95),
 (corresponding author, with Sanxi Li and Xi Liu, *Economic Research Journal*, in Chinese)
 
