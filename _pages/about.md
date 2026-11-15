@@ -53,7 +53,7 @@ My research interests include Industrial Organization (especially Platform and A
 
 - The Limits of Recommender Systems, work in progress
 
-- Two-Sided Transparency in Platform Recommendation, work in progress
+- Transparency in Platform Recommendation: A Self-Confirming Equilibrium Analysis, work in progress
 
 - Who Pays for Product Returns? Advertising and Return Policies, work in progress (with Sanxi Li, Yufan Wu and Jun Yu)
 
