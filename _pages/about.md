@@ -47,7 +47,7 @@ My research interests include Industrial Organization (especially Platform and A
 - [Product Returns and the Value of Search Prominence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980259),
 (with Sanxi Li and Jun Yu, previously circulated as "Search Prominence with Costly Product Returns")
 
-- Who Pays for Product Returns? Advertising and Return Policies, (with Sanxi Li, Yufan Wu and Jun Yu)
+- [Who Pays for Product Returns? Advertising and Return Policies](https://arxiv.org/pdf/2611.22370), (with Sanxi Li, Yufan Wu and Jun Yu)
 
 - Platform Recommendation and Competition in Search Markets, (with Sanxi Li and Jun Yu)
 
