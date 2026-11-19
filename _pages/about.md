@@ -49,7 +49,7 @@ My research interests include Industrial Organization (especially Platform and A
 
 - [Who Pays for Product Returns? Advertising and Return Policies](https://arxiv.org/pdf/2611.22370), (with Sanxi Li, Yufan Wu and Jun Yu)
 
-- Platform Recommendation and Competition in Search Markets, draft in preparation (with Sanxi Li and Jun Yu)
+- [Platform Recommendation and Competition in Search Markets](https://arxiv.org/abs/2611.24464),  (with Sanxi Li and Jun Yu)
 
 - The Limits of Recommender Systems, draft in preparation
 
