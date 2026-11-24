@@ -18,7 +18,7 @@ redirect_from:
 <span class='url' id='/#about-me'></span>
 
 # About Me
-I am a Ph.D.candidate in the theoretical economics at the School of Economics, Renmin University of China, advised by Sanxi Li, and expect to complete my degree in June 2027. I use applied microeconomic theory to study competition and welfare in digital Economy, focusing on platforms, artificial intelligence, and the economics of data.
+I am a Ph.D.candidate in the theoretical economics at the School of Economics, Renmin University of China, advised by Sanxi Li, and expect to complete my degree in June 2027. I use applied microeconomic theory to study competition and welfare in digital economy, focusing on platforms, artificial intelligence, and the economics of data.
 
 
 <span class='url' id='/#news'></span>
